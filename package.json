@@ -1,6 +1,6 @@
 {
   "name": "@highstone/hyrai-icons",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Icons used in hyrai project",
   "main": "./lib/index.js",
   "scripts": {
