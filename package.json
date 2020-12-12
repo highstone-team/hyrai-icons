@@ -1,0 +1,23 @@
+{
+  "name": "hyrai-icons",
+  "version": "1.0.0",
+  "description": "Icons used in hyrai project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highstone-team/hyrai-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "hyrai"
+  ],
+  "author": "Highstone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highstone-team/hyrai-icons/issues"
+  },
+  "homepage": "https://github.com/highstone-team/hyrai-icons#readme"
+}
