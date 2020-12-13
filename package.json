@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "scripts": {
     "build": "webpack",
-    "svgr": "svgr src/icons -d src/component --icon --replace-attr-values '#fff=currentColor'"
+    "svgr": "svgr src/icons -d src/component --ignore-existing --icon --replace-attr-values '#fff=currentColor'"
   },
   "repository": {
     "type": "git",
